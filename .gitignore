@@ -1,0 +1,30 @@
+# Environment variables and API keys (CRITICAL - DO NOT COMMIT)
+.env
+.env.*
+!.env.example
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Vector store local databases & caches (optional to ignore generated index files)
+chroma_db/
+faiss_index/
+*.sqlite3
+*.db
+
+# OS specific files
+.DS_Store
+Thumbs.db
