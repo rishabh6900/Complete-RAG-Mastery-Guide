@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "./3_Debuding.py:agent"
+  },
+  "env": ".env"
+}

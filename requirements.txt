@@ -16,4 +16,13 @@ tiktoken
 python-dotenv
 pandas
 ipywidgets
-
+
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+arxiv
+wikipedia
+
+
