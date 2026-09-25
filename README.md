@@ -8,11 +8,11 @@ Welcome to the comprehensive, enterprise-grade study guide and interview handboo
 
 | Module | Directory | Topics Covered | Detailed Notes Link |
 | :--- | :--- | :--- | :--- |
-| **0** | `0_DataInagestion/` | Document Loaders (PDF, DOCX, CSV, JSON, SQL), Metadata Filtering, ETL | [Module 0 Notes](file:///d:/Udemy/Rag_krish%20naik/0_DataInagestion/THEORY_AND_INTERVIEW_NOTES.md) |
-| **1** | `1_embeddings/` | Vector Embeddings, Cosine/Dot Product/L2, OpenAI, SentenceTransformers, MRL | [Module 1 Notes](file:///d:/Udemy/Rag_krish%20naik/1_embeddings/THEORY_AND_INTERVIEW_NOTES.md) |
-| **2** | `2_vectore_store_and_vector_database/` | Vector Stores vs DBs, HNSW, IVF, PQ, Chroma, FAISS, Pinecone, AstraDB | [Module 2 Notes](file:///d:/Udemy/Rag_krish%20naik/2_vectore_store_and_vector_database/THEORY_AND_INTERVIEW_NOTES.md) |
-| **4** | `4_Advanced_chunking_and_preprocessing_techniques/` | Recursive Chunking, Semantic Chunking, Parent-Document, Sentence Window | [Module 4 Notes](file:///d:/Udemy/Rag_krish%20naik/4_Advanced_chunking_and_preprocessing_techniques/THEORY_AND_INTERVIEW_NOTES.md) |
-| **5** | `5_Hybrid_search_strategies/` | Dense + Sparse (BM25), EnsembleRetriever, RRF, Cross-Encoder Reranking, MMR | [Module 5 Notes](file:///d:/Udemy/Rag_krish%20naik/5_Hybrid_search_strategies/THEORY_AND_INTERVIEW_NOTES.md) |
+| **0** | `0_DataInagestion/` | Document Loaders (PDF, DOCX, CSV, JSON, SQL), Metadata Filtering, ETL | [Module 0 README](file:///d:/Udemy/Rag_krish%20naik/0_DataInagestion/README.md) \| [Theory Notes](file:///d:/Udemy/Rag_krish%20naik/0_DataInagestion/THEORY_AND_INTERVIEW_NOTES.md) |
+| **1** | `1_embeddings/` | Vector Embeddings, Cosine/Dot Product/L2, OpenAI, SentenceTransformers, MRL | [Module 1 README](file:///d:/Udemy/Rag_krish%20naik/1_embeddings/README.md) \| [Theory Notes](file:///d:/Udemy/Rag_krish%20naik/1_embeddings/THEORY_AND_INTERVIEW_NOTES.md) |
+| **2** | `2_vectore_store_and_vector_database/` | Vector Stores vs DBs, HNSW, IVF, PQ, Chroma, FAISS, Pinecone, AstraDB | [Module 2 README](file:///d:/Udemy/Rag_krish%20naik/2_vectore_store_and_vector_database/README.md) \| [Theory Notes](file:///d:/Udemy/Rag_krish%20naik/2_vectore_store_and_vector_database/THEORY_AND_INTERVIEW_NOTES.md) |
+| **4** | `4_Advanced_chunking_and_preprocessing_techniques/` | Recursive Chunking, Semantic Chunking, Parent-Document, Sentence Window | [Module 4 README](file:///d:/Udemy/Rag_krish%20naik/4_Advanced_chunking_and_preprocessing_techniques/README.md) \| [Theory Notes](file:///d:/Udemy/Rag_krish%20naik/4_Advanced_chunking_and_preprocessing_techniques/THEORY_AND_INTERVIEW_NOTES.md) |
+| **5** | `5_Hybrid_search_strategies/` | Dense + Sparse (BM25), EnsembleRetriever, RRF, Cross-Encoder Reranking, MMR | [Module 5 README](file:///d:/Udemy/Rag_krish%20naik/5_Hybrid_search_strategies/README.md) \| [Theory Notes](file:///d:/Udemy/Rag_krish%20naik/5_Hybrid_search_strategies/THEORY_AND_INTERVIEW_NOTES.md) |
 | **6** | `6_Query_Enhancement/` | Query Expansion, HyDE, Step-Back Prompting, Sub-Query Decomposition | [Module 6 Notes](file:///d:/Udemy/Rag_krish%20naik/6_Query_Enhancement/THEORY_AND_INTERVIEW_NOTES.md) |
 
 ---
